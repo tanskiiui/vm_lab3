@@ -1,0 +1,10 @@
+C:\Users\Юра\source\repos\vm_lab3\vm_lab3\bin\Debug\vm_lab3.exe.config
+C:\Users\Юра\source\repos\vm_lab3\vm_lab3\bin\Debug\vm_lab3.exe
+C:\Users\Юра\source\repos\vm_lab3\vm_lab3\bin\Debug\vm_lab3.pdb
+C:\Users\Юра\source\repos\vm_lab3\vm_lab3\obj\Debug\vm_lab3.csprojAssemblyReference.cache
+C:\Users\Юра\source\repos\vm_lab3\vm_lab3\obj\Debug\vm_lab3.Form1.resources
+C:\Users\Юра\source\repos\vm_lab3\vm_lab3\obj\Debug\vm_lab3.Properties.Resources.resources
+C:\Users\Юра\source\repos\vm_lab3\vm_lab3\obj\Debug\vm_lab3.csproj.GenerateResource.cache
+C:\Users\Юра\source\repos\vm_lab3\vm_lab3\obj\Debug\vm_lab3.csproj.CoreCompileInputs.cache
+C:\Users\Юра\source\repos\vm_lab3\vm_lab3\obj\Debug\vm_lab3.exe
+C:\Users\Юра\source\repos\vm_lab3\vm_lab3\obj\Debug\vm_lab3.pdb
